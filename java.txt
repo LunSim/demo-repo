@@ -1,0 +1,26 @@
+Super have 2 ways for use :
+  //sum() =  x+y of subclass 
+ 1.call function to use(Ex: int sum(){return x+y})
+ 2.modify intront of member of class(Ex: int sum(){return super.sum()+ y})
+
+160316332
+http://register.kshrd.com.kh/information
+
+
+
+
+//How to create jar file using java project
+(Click On File >>> export ==> Runable JAR file)
+1. Maven Project Info
+Tool
+Project structure(folder Structure)
+POM File
+Dependencies
+Build--> jar,was,ear.
+2.POM
+groupId:com:ckcc.jar-team
+Artifactid: AssignmentXML
+Version:0.1.1
+Project natation:
+Effective Vs POM
+3.Maven repository
